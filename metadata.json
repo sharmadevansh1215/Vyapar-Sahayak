@@ -1,0 +1,10 @@
+{
+  "name": "Remix Vyapar Sahayak",
+  "description": "Rural enterprise advisory, multilingual business feasibility, margin capital calculator, and MoSJE financial scheme roadmaps.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
